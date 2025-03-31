@@ -1,10 +1,19 @@
-# Deep Learning Architectures for Image Classification
+# Deep Learning Atelier 2
+
 
 
 **Developed by:** Amine Izougaghen  
 **Supervised by:** Prof. EL ACHAAK Lotfi
 
 ![Project Badge](https://img.shields.io/badge/Deep%20Learning-PyTorch-blue)
+
+## 📌 Overview
+
+This project explores and implements various deep learning architectures for image classification tasks, including:
+- Conventional CNNs
+- Faster R-CNN (adapted)
+- Fine-tuned pre-trained models (VGG16, AlexNet)
+- Vision Transformers (ViT)
 
 ## Lab Report
 
@@ -55,13 +64,6 @@ This lab explored various deep learning architectures for image classification, 
 - **Faster R-CNN**: Powerful but unnecessarily complex for MNIST.
 - **Fine-tuning**: Leveraging pre-trained models accelerates development.
 - **ViTs**: Future potential, but need optimization for small datasets.
-
----
-
-### 🚀 Future Work
-- Experiment with **larger datasets** to better leverage ViT's capabilities.
-- Optimize hyperparameters for ViT models.
-- Compare additional pre-trained architectures for transfer learning.
 
 ---
 
